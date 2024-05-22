@@ -1,0 +1,21 @@
+.user-info-container {
+  display: grid;
+  width: 100vw;
+  min-height: 5em;
+  justify-self: center;
+  font-size: larger;
+  font-weight: 600;
+  align-content: center;
+  gap: 0.4em;
+  background-color: #e9e9e9;
+}
+
+.p-align {
+  margin: 0;
+  padding: 0;
+}
+.company-name {
+}
+
+.user-name {
+}

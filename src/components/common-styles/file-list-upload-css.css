@@ -1,0 +1,47 @@
+.file-list-upload-continer {
+  display: grid;
+  width: 75rem;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: auto;
+  justify-self: center;
+  border-radius: 2px;
+  margin-top: 0em;
+}
+
+.file-list-header-container {
+  height: 4em;
+  background-color: #6975de;
+  border: 1px solid white;
+}
+
+.file-list-header-names {
+  font-size: larger;
+  font-weight: 700;
+}
+.file-list-row-container {
+  height: 4em;
+  background-color: #f5f5f5;
+  border: 1px solid white;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+.p-text-align {
+  margin: 0;
+  padding: 0;
+  min-width: 37em;
+  text-align: left;
+}
+
+.file-list-button {
+  height: 2em;
+  width: 10em;
+}
+
+.file-list-button:hover {
+  cursor: pointer;
+}
+
+.generate-lable-text {
+  font-weight: 500;
+}
